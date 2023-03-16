@@ -1,5 +1,5 @@
 # calcium-imaging
-This is a set of tools for calcium imaging and analysis of Miniscope data from peripheral ganglia. Code and processes developed by Tomás S. Huerta, Bilal Haider, Richard Adamovich-Zeitlin, and Eric H. Chang.
+This is a set of tools for calcium imaging and analysis of Miniscope data from peripheral ganglia. Code and processes developed by Tomás S. Huerta, Bilal Haider, Richard Adamovich-Zeitlin, and Eric H. Chang. Associated publication is Huerta et al JNE 2023 "Calcium imaging and analysis of the jugular-nodose ganglia enables identification of distinct vagal sensory neuron subsets" https://iopscience.iop.org/article/10.1088/1741-2552/acbe1e
 
 This project contains three primary documents: a modified CaImAn pipeline for ganglion analysis, a post analysis pipeline to export calcium traces with their respective response components, and a Guide to aid with preprocessing steps and basic troubleshooting. Use of this pipeline requires proper installation of CaImAn and the caiman_data folder. Please refer to the caiman documentation for instructions to install the caiman_data folder and all other dependencies. https://caiman.readthedocs.io/en/master/
 
